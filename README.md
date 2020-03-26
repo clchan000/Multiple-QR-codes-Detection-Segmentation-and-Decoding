@@ -9,3 +9,7 @@ Environments:
 * C/C++, VS2019, openCV, openMP
 * Logitech C920 PRO HD WEBCAM
 * 1920x1080 resolution
+
+
+[![예제](http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/RlQEoJaLQRA?t=0s) 
+
