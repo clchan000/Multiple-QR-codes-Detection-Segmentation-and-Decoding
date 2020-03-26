@@ -19,5 +19,9 @@ Environments:
 
 ## Youtube
 [![예제](http://img.youtube.com/vi/atH0RJN-ODs/0.jpg)](https://youtu.be/atH0RJN-ODs?t=0s) 
+https://youtu.be/atH0RJN-ODs
 [![예제](http://img.youtube.com/vi/QyaFEmmOGdk/0.jpg)](https://youtu.be/QyaFEmmOGdk?t=0s) 
+https://youtu.be/QyaFEmmOGdk
+
+
 
