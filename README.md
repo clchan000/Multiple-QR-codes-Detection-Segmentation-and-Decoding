@@ -58,13 +58,7 @@ https://youtu.be/JlwNKRQJ5h0
 <br>
 
 ## Run
-1. Download OpenCV 4.1.1
-* https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download
-
-2. Decompress
-* Decompress it on the path "C:\"
-
+1. Download OpenCV 4.1.1(https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download)
+2. Decompress it on the path "C:\"
 3. Clone this project
-
-4. Open the poject and complie it
-5. 
+4. Open the project and complie it
