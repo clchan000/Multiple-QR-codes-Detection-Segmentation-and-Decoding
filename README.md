@@ -38,7 +38,6 @@
 * https://youtu.be/QyaFEmmOGdk
 * Bounding boxs shows detected QR code positions.
 * The Blue lines show the bottom of QR codes.
-
 <br>
 
 ### 20191216 Real-time multiple QR codes detection and segmentation
@@ -48,8 +47,6 @@
 * https://youtu.be/atH0RJN-ODs
 * Bounding boxs shows detected QR code positions.
 * The Blue lines show the bottom of QR codes.
-
-<br>
 <br>
 
 ### 20180503 Basic Algorithims(single detection, Korean)
@@ -57,8 +54,9 @@
 <br>
 
 * https://youtu.be/JlwNKRQJ5h0
-* 
 <br>
+
+
 <br>
 
 ## Run
