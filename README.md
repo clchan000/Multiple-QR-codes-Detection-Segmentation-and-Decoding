@@ -1,4 +1,4 @@
-# Real-time Multiple QR codes Detection, Segmenation and Decoding
+# Multiple QR codes Detection, Segmenation and Decoding
 
 * This is a experimental project for "Advanced Parallel Computing 2019-2" and "Vision System 2018-1".
 * The project's basic algorithm was made in "Vision System 2018-1."
