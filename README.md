@@ -40,20 +40,24 @@
 * The Blue lines show the bottom of QR codes.
 
 <br>
+
 ### 20191216 Real-time multiple QR codes detection and segmentation
 [![예제](http://img.youtube.com/vi/atH0RJN-ODs/0.jpg)](https://youtu.be/atH0RJN-ODs?t=0s) 
 <br>
-https://youtu.be/atH0RJN-ODs
+
+* https://youtu.be/atH0RJN-ODs
+* Bounding boxs shows detected QR code positions.
+* The Blue lines show the bottom of QR codes.
+
 <br>
-Bounding boxs shows detected QR code positions.
 <br>
-The Blue lines show the bottom of QR codes.
-<br>
-<br>
+
 ### 20180503 Basic Algorithims(single detection, Korean)
 [![예제](http://img.youtube.com/vi/JlwNKRQJ5h0/0.jpg)](https://youtu.be/JlwNKRQJ5h0?t=0s) 
 <br>
-https://youtu.be/JlwNKRQJ5h0
+
+* https://youtu.be/JlwNKRQJ5h0
+* 
 <br>
 <br>
 
