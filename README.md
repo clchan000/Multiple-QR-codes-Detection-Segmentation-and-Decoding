@@ -1,21 +1,25 @@
 # Real-time multiple QR codes detection and segmentation
 
+---
 
-Works
+* This is a experimental project for "Advanced Parallel Computing 2019-2" and "Vision System 2018-1".
+
+### Works
 * Detection works good, but decoding is unstable due to poor recognition of openCV decoding.
 * Bounding boxs shows detected QR code positions.
 * The Blue lines show the bottom of QR codes.
 
-Features
+### Features
 * It finds QR codes.
 
-Environments:
+### Environments:
 * C/C++, Visual Studio 2019
 * openMP
-* openCV
-* Logitech C920 PRO HD WEBCAM 1920x1080 resolution
-* 1920x1080 resolution proecessing
+* openCV 4.1.1
+* Webcam
 
+
+---
 
 ## Youtube
 [![예제](http://img.youtube.com/vi/atH0RJN-ODs/0.jpg)](https://youtu.be/atH0RJN-ODs?t=0s) 
@@ -27,6 +31,10 @@ https://youtu.be/atH0RJN-ODs
 <br>
 https://youtu.be/QyaFEmmOGdk
 <br>
-
-
+### Basic Algorithims
+[![예제](http://img.youtube.com/vi/JlwNKRQJ5h0/0.jpg)](https://youtu.be/JlwNKRQJ5h0?t=0s) 
+<br>
+https://youtu.be/JlwNKRQJ5h0
+<br>
+<br>
 
