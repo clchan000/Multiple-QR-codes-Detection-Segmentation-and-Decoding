@@ -34,11 +34,11 @@
 ### 20191221 Multple QR codes detection and decoding using openCV
 [![예제](http://img.youtube.com/vi/QyaFEmmOGdk/0.jpg)](https://youtu.be/QyaFEmmOGdk?t=0s) 
 <br>
-https://youtu.be/QyaFEmmOGdk
-<br>
-Bounding boxs shows detected QR code positions.
-<br>
-The Blue lines show the bottom of QR codes.
+
+* https://youtu.be/QyaFEmmOGdk
+* Bounding boxs shows detected QR code positions.
+* The Blue lines show the bottom of QR codes.
+
 <br>
 ### 20191216 Real-time multiple QR codes detection and segmentation
 [![예제](http://img.youtube.com/vi/atH0RJN-ODs/0.jpg)](https://youtu.be/atH0RJN-ODs?t=0s) 
