@@ -4,6 +4,8 @@
 * The project's basic algorithm was made in "Vision System 2018-1."
 * And then, Parallel processing and multiple detection were applied in "Advanced Parallel Computing 2019-2".
 
+<br>
+<br>
 
 ## Features
 
@@ -26,7 +28,8 @@
 ### limitation
 * QR Code model1, model2 Only
 
-
+<br>
+<br>
 
 ## Youtube
 ### 20191216 Real-time multiple QR codes detection and segmentation
