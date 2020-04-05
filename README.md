@@ -14,9 +14,9 @@
 * Re-detect and Decord them with openCV function(OpenCV detector is not good, it should be fixed.)
 
 ### Outputs
-* The images of Segmented QR codes(mode1: not-aligned, mode2:aligned)
-* The positions of Segmented QR codes
-* The decorded information of Segmented QR codes
+* The images of segmented QR codes(mode1: not-aligned, mode2:aligned)
+* The positions of segmented QR codes
+* The decorded information of segmented QR codes
 
 ### Environments
 * Windows 10
