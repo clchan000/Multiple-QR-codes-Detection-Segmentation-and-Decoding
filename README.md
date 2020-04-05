@@ -6,6 +6,18 @@
 
 <br>
 
+## Youtube
+### 20191221 Multple QR codes detection and decoding using openCV
+[![예제](http://img.youtube.com/vi/QyaFEmmOGdk/0.jpg)](https://youtu.be/QyaFEmmOGdk?t=0s) 
+<br>
+
+* https://youtu.be/QyaFEmmOGdk
+* Bounding boxs shows detected QR code positions.
+* The Blue lines show the bottom of QR codes.
+<br>
+
+<br>
+
 ## Features
 
 ### Works
