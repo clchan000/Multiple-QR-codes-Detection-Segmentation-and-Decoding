@@ -38,7 +38,7 @@
 
 ### Works
 * Detect Multiple QR codes present on a frame at the same time.
-* Segment detected QR codes.
+* Detect and Segment detected QR codes.
 * Re-detect and Decord them with openCV function(OpenCV detector is not good, it should be fixed.)
 
 ### Outputs
@@ -55,6 +55,7 @@
 
 ### limitation
 * QR Code model1, model2 Only
+* No distortion removal
 
 <br>
 
