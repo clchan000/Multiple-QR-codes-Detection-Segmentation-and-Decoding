@@ -43,6 +43,7 @@
 2. Decompress it on the path "C:\"
 3. Clone this project
 4. Open the project file and complie it
+5. Run it with release mode (debug mode is slow)
 
 ## Methodology
 1. 
