@@ -35,11 +35,11 @@
 
 <br>
 
-## Run
+## How to Run
 1. Download OpenCV 4.1.1(https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download)
 2. Decompress it on the path "C:\"
 3. Clone this project
 4. Open the project file and complie it
 
-
-
+## Methodology
+1. 
