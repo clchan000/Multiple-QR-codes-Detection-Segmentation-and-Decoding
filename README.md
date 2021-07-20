@@ -1,4 +1,4 @@
-# Multiple QR codes Detection, Segmenation and Decoding
+# Multiple QR codes Detection, Segmenation, and Decoding
 
 * A real-time multiple QR codes decorder based on C++, openCV, and openMP
 
@@ -48,7 +48,12 @@
 ## Methodology
 1.
 
-
-## Reference
-*
-* 
+```
+## Citation
+@misc{openQR,
+author = {Ye-Chan Choi},
+title = {Multiple QR codes Detection, Segmenation, and Decoding},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/clchan000/Multiple-QR-codes-Detection-Segmenation-and-Decoding}}
+```
