@@ -48,8 +48,9 @@
 ## Methodology
 1.
 
-```
 ## Citation
+
+```
 @misc{openQR,
 author = {Ye-Chan Choi},
 title = {Multiple QR codes Detection, Segmenation, and Decoding},
