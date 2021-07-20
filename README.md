@@ -1,6 +1,6 @@
 # Multiple QR codes Detection, Segmenation and Decoding
 
-* A multiple QR codes decorder based on C++, openCV, and openMP
+* A real-time multiple QR codes decorder based on C++, openCV, and openMP
 * Youtube #1 https://youtu.be/QyaFEmmOGdk
 * Youtube #2 https://youtu.be/atH0RJN-ODs
 * Youtube #3 https://youtu.be/JlwNKRQJ5h0
