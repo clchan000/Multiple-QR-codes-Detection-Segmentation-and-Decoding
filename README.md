@@ -25,9 +25,10 @@
 ### Environments
 * Windows 10
 * C/C++, Visual Studio 2019
-* openMP
 * openCV 4.1.1
-* Webcam
+* openMP for Parallel Computing
+* Webcam Logitech C920 PRO HD WEBCAM
+* Image Resolution 1920x1080
 
 ### limitation
 * QR Code model1, model2 Only
