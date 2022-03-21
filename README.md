@@ -46,6 +46,7 @@
 5. Run it with release mode (debug mode is slow)
 
 ## Methodology
+![ex_screenshot](./Resource/diagram.png)
 1.
 
 ## Citation
