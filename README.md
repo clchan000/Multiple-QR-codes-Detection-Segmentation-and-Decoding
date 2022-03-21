@@ -21,6 +21,10 @@
 * The positions of segmented QR codes
 * The decorded information of segmented QR codes
 
+### limitation
+* QR Code model1, model2 Only
+* No distortion removal
+
 ### Environments
 * Windows 10
 * C/C++, Visual Studio 2019
@@ -28,14 +32,7 @@
 * openMP for Parallel Computing
 * Image Resolution 1920x1080
 
-### limitation
-* QR Code model1, model2 Only
-* No distortion removal
-
 <br>
-
-## Experiments
-* Webcam Logitech C920 PRO HD WEBCAM
 
 ## How to Run
 1. Download OpenCV 4.1.1(https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download)
@@ -47,6 +44,11 @@
 ## Methodology
 ![ex_screenshot](./Resource/diagram.png)
 1.
+
+
+## Experiments
+* Webcam Logitech C920 PRO HD WEBCAM
+
 
 ## Citation
 
