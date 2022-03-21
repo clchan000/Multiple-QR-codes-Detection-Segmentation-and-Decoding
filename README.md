@@ -7,7 +7,6 @@
 
 * Youtube #1 https://youtu.be/atH0RJN-ODs
 * Youtube #2 https://youtu.be/QyaFEmmOGdk
-* Youtube #3 https://youtu.be/JlwNKRQJ5h0
 <br>
 
 ## Features
