@@ -1,4 +1,4 @@
-# Multiple QR codes Detection, Segmenation, and Decoding
+# Multiple QR codes Detection, Segmentation, and Decoding
 
 * A real-time multiple QR codes decorder based on C++, openCV, and openMP
 
