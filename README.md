@@ -12,42 +12,40 @@
 ## Features
 
 ### Works
-* Detect all QR codes presented on a frame at the same time.
-* Segment the detected QR codes.
-* Decord them with openCV function. (But, OpenCV Decoder shows poor performance...)
+* Detect all QR codes presented on a frame at the same time
+* Segment the detected QR codes
+* Decord them with openCV function (But, OpenCV Decoder shows poor performance...)
 
 ### Outputs
 * The images of segmented QR codes (mode1: not-aligned, mode2: aligned)
 * The positions
-* The decorded informationS
+* The decorded informations
 
 ### limitation
-* QR Code model1, model2 Only
+* QR Code model1, model2 only
 
 ### Environments
 * Windows 10
 * C/C++, Visual Studio 2019
 * openCV 4.1.1
 * openMP for Parallel Computing
-* Input Image Resolution 1920x1080
-
-<br>
+* Tested on image resolution 1920x1080
 
 ## How to Run
 1. Download OpenCV 4.1.1(https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download)
 2. Decompress it on the path "C:\"
 3. Clone this project
 4. Open the project file and complie it
-5. Run it with release mode (debug mode is slow)
+5. Run it with release mode (Debug mode is slow)
+
+<br>
 
 ## Methodology
 ![ex_screenshot](./Resource/diagram.png)
 1.
 
-
 ## Experiments
 * Webcam Logitech C920 PRO HD WEBCAM
-
 
 ## Citation
 
@@ -59,3 +57,6 @@ publisher = {GitHub},
 journal = {GitHub repository},
 howpublished = {\url{https://github.com/clchan000/Multiple-QR-codes-Detection-Segmenation-and-Decoding}}
 ```
+
+
+
