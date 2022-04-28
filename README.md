@@ -12,25 +12,24 @@
 ## Features
 
 ### Works
-* Detect Multiple QR codes present on a frame at the same time.
-* Detect and Segment detected QR codes.
-* Re-detect and Decord them with openCV function(OpenCV detector is not good, it should be fixed.)
+* Detect all QR codes presented on a frame at the same time.
+* Segment the detected QR codes.
+* Decord them with openCV function. (But, OpenCV Decoder shows poor performance...)
 
 ### Outputs
-* The images of segmented QR codes(mode1: not-aligned, mode2:aligned)
-* The positions of segmented QR codes
-* The decorded information of segmented QR codes
+* The images of segmented QR codes (mode1: not-aligned, mode2: aligned)
+* The positions
+* The decorded informationS
 
 ### limitation
 * QR Code model1, model2 Only
-* No distortion removal
 
 ### Environments
 * Windows 10
 * C/C++, Visual Studio 2019
 * openCV 4.1.1
 * openMP for Parallel Computing
-* Image Resolution 1920x1080
+* Input Image Resolution 1920x1080
 
 <br>
 
