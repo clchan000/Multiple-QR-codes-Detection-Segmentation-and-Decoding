@@ -13,7 +13,7 @@
 #include "OpenQR.h"
 
 // main
-void main(void)
+int main(void)
 {
 	// object
 	OpenQR openQR;
@@ -28,18 +28,18 @@ void main(void)
 
 	// open camera
 	if (openQR.OpenCamera(1920, 1080) == -1)	// open camera 1920 x 1080 resolution
-		return;
+		return -1;
 
-	// loop
+	// infinite loop
 	while (1)
 	{
-		// ESC key detection(END condition)
+		// ESC key detection (END condition)
 		if (openQR.CheckEscKey() == 1)
 			break;
 
 		// Check reading error
 		if (openQR.ReadFrame() == -1)
-			return;
+			return -1;
 
 		// Set timer
 		timeStarting = clock();
@@ -70,6 +70,9 @@ void main(void)
 		openQR.Reset();
 
 	} // while()
+
+	// end
+	return 0;
 
 }	// main()
 
